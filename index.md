@@ -4,14 +4,8 @@
 <head> 
 	<title>My Blog </title> 
 </head> 
-
-
-
-
 <body style="padding:0px;margin:0px;width:100%;height:100%;"><!-- body 여백 없애기-->
 	<div id="wrapper"> 
-
-
 		<div id="main">
 			<div id="black_bg">
 				<div id = "usadan">
